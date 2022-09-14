@@ -2,10 +2,12 @@
    <img align="center" width="100" src="https://beatvi.com/wp-content/uploads/2020/10/cropped-responsive_O-1-180x180.png" />
    <h3 align="center">¡Hola! Somos Beatvi</h3>
 </p>
-Nuestro [instagram](https://www.instagram.com/beatvi/)
-Canal de  [Youtube](https://www.youtube.com/channel/UC9phMUEdAvpHpIdkviKXTYg)  :fa-youtube-play:
 
-Repositorio de la web Beatvi. Educación para la vida. !Educación STEAM!!!
+-------------
+
+Nuestro [instagram](https://www.instagram.com/beatvi/) y Canal de  [Youtube](https://www.youtube.com/channel/UC9phMUEdAvpHpIdkviKXTYg) 
+
+### Repositorio de la web Beatvi. Educación para la vida. !Educación STEAM!!!
 
 Algunos servicios que ofrecemos.
 - Exploración científica, artistica, róbotica y biológica
@@ -13,7 +15,7 @@ Algunos servicios que ofrecemos.
 - Bases para aprender programación enfocada para niños y jovenes
 - Acompañamiento I+D+I (Investigación, Desarrollo, Innovación) 
 
-###¿Cómo queremos hacerlo?
+### ¿Cómo queremos hacerlo?
 - Desde la robótica
 - Construyendo y preguntándose cómo funciona
 - Fallando y aprendiendo de los errores
@@ -22,10 +24,10 @@ Algunos servicios que ofrecemos.
 - Torneos participados
 
 
-###¿Qué es educación STEM-STEAM?
-S-Science-Ciencia
-T-Technology-Tecnología
-E-Engineering-Ingeniería
-A-Arts-Arte/Diseño
-M-Mathematics-Matemáticas
+### ¿Qué es educación STEM-STEAM?
+- S-Science-Ciencia
+- T-Technology-Tecnología
+- E-Engineering-Ingeniería
+- A-Arts-Arte/Diseño
+- M-Mathematics-Matemáticas
 
