@@ -2,8 +2,8 @@
    <img align="center" width="100" src="https://beatvi.com/wp-content/uploads/2020/10/cropped-responsive_O-1-180x180.png" />
    <h3 align="center">¡Hola! Somos Beatvi</h3>
 </p>
-Nuestro :fa-instagram:  [instagram](https://www.instagram.com/beatvi/)
-Canal de :fa-youtube-play: [Youtube](https://www.youtube.com/channel/UC9phMUEdAvpHpIdkviKXTYg) 
+Nuestro [instagram](https://www.instagram.com/beatvi/)
+Canal de  [Youtube](https://www.youtube.com/channel/UC9phMUEdAvpHpIdkviKXTYg)  :fa-youtube-play:
 
 Repositorio de la web Beatvi. Educación para la vida. !Educación STEAM!!!
 
